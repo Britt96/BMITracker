@@ -1,2 +1,2 @@
 # BMITracker
-Tracks BMI and displays results in a graph and table.
+Calculates and tracks BMI and displays results in a graph and dynamic table. Requires passcode upon entry and stores user login info, height, weight, and date in local storage. Displays most recent BMI on a meter with green, yellow, and red zones representing normal, overweight, and underweight/obese weight statuses, respectively and provides recommendations according to results. Built with JavaScript and jQuery.
